@@ -2,7 +2,7 @@ name: "Hello Actions"
 description: "Greetings haha"
 author: "eduardo-aop"
 
-inputs
+inputs:
 	MY_FIRST_ACTION:
 		description: "Who to greet"
 		required: true
